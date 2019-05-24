@@ -48,6 +48,7 @@ subdirectories =
  Transforms
  WindowsManifest
  XRay
+ Obfuscation
 
 [component_0]
 type = Group
