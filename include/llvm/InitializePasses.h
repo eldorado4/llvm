@@ -412,13 +412,6 @@ void initializeWinEHPreparePass(PassRegistry&);
 void initializeWriteBitcodePassPass(PassRegistry&);
 void initializeWriteThinLTOBitcodePass(PassRegistry&);
 void initializeXRayInstrumentationPass(PassRegistry&);
-
-void initializePrivate0Pass(PassRegistry&);
-void initializePrivate1Pass(PassRegistry&);
-void initializePrivate2Pass(PassRegistry&);
-void initializePrivate3Pass(PassRegistry&);
-void initializePrivate4Pass(PassRegistry&);
-void initializePrivate5Pass(PassRegistry&);
 } // end namespace llvm
 
 #endif // LLVM_INITIALIZEPASSES_H
